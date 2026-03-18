@@ -1,0 +1,4 @@
+name = "kb-aio"
+main = "src/index.js"
+compatibility_date = "2026-03-18"
+compatibility_flags = ["nodejs_compat"]
